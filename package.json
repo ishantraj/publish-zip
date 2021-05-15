@@ -1,0 +1,19 @@
+{
+  "name": "publish-zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test integration from github to npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishantraj/publish-zip.git"
+  },
+  "author": "Ishant Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishantraj/publish-zip/issues"
+  },
+  "homepage": "https://github.com/ishantraj/publish-zip#readme"
+}
